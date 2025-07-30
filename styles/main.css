@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap");
+body {
+  background-image: url("../assets/images/1712-34.jpg");
+  margin: 0; 
+  min-height: 100vh; 
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+}
+.cherry-bomb-one-regular {
+  font-family: "Cherry Bomb One", system-ui;
+  font-weight: 100;
+  font-style: normal;
+  background-color: white;
+}
+
+.bitcount-prop-double-bit {
+  font-family: "Bitcount Prop Double", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings: "slnt" 0, "CRSV" 0.5, "ELSH" 0, "ELXP" 0;
+}
+
+.wip {
+  text-align: center;
+  background: #e2d2c2;
+  width: 40%;
+  font-family: "Cherry Bomb One";
+  border: 2px solid black;
+  color: white;
+  font-size: 21px; 
+  padding: 20px 40px;
+  border-radius: 8px; 
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1); 
+}
